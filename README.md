@@ -5,15 +5,16 @@
 
 ## About myself
 
-- 😋 I love developing interesting things, but my coding skills are bad
-- 💖 I'm from China and my english is terrible, but I'll try to use machine translation for conversations in other languages, so if there's something wrong with my grammar, I'm really sorry
-- 🎮 I like to play pixel style games, such as: Minecraft, Stardew Valley and so on
-- 💻 I'm teaching myself Java, so most of my projects will be Java based. I have learned C++ for a while, but only for the game development part
-- 🌈 I hope programmers all over the world can get along with each other
+- 😋 In most cases, I tend to develop things that I personally desire. I don't enjoy following the crowd.
+- 💖 I'm from China, and my English is not good. If possible, please communicate with me in Chinese (I am learning English, but progress is slow).
+- 🎮 I personally enjoy small and beautiful pixel games, such as Minecraft and Stardew Valley. I also really like puzzle-solving mystery games, like Ghost Trick: Phantom Detective.
+- 💻 I am currently self-learning Java, so most of my public repositories are written in Java. However, I also know C++, but only for game development purposes.
+- 🌈  I hope that people all over the world can live together harmoniously.
 
 ## Contact Me
 - Tencent QQ: 1536266519
-- Discord: RealSeek#1426
-- Kook: RealSeek#8349
+- Discord: RealSeek
+- Kook: RealSeek#1234
+- afdian: [RealSeek](https://afdian.net/a/realseek)
 
-**If my code makes you feel bad, I am sorry for that, you can communicate with me where I need to improve, I will be very grateful to you :)**
+**My coding skills are very poor. If my terrible code gives you a headache, I apologize for that. Can you tell me how to improve? I would greatly appreciate your help:)**
